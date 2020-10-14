@@ -117,7 +117,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: 主页
           url: /
   -
     scope:
