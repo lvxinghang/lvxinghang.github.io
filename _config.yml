@@ -10,7 +10,7 @@
 
 title: 阿航                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: 且随疾风前行  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,7 +22,7 @@ url: 'https://lvxinghang.github.io/'
 
 author: lxh                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/myphoto.png   # support internet resources
 
 github:
   username: github_username             # change to your github username
