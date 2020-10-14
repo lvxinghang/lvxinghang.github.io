@@ -132,7 +132,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
         -
           label: Tags
@@ -145,7 +145,7 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: 主页
           url: /
         -
           label: Categories
