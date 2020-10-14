@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: 类别
 type: categories
 # All the Categories of posts
 # v2.0
@@ -31,7 +31,7 @@ type: categories
         {% endunless %}
       {% endif %}
     {% endfor %}
-
+    
     {% assign sub_categories = sub_categories | sort %}
     {% assign sub_categories_size = sub_categories | size %}
 
@@ -61,7 +61,7 @@ type: categories
             post{% if top_posts_size > 1 %}s{% endif %}
         </span>
       </span>
-
+    
       <!-- arrow -->
       {% if sub_categories_size > 0%}
       <a href="#{{ LIST_PREFIX }}{{ group_index }}" data-toggle="collapse" aria-expanded="true"
@@ -73,9 +73,9 @@ type: categories
         <i class="fas fa-fw fa-angle-right"></i>
       </span>
       {% endif %}
-
+    
     </div> <!-- .card-header -->
-
+    
     <!-- Sub-categories -->
     {% if sub_categories_size > 0 %}
     <div id="{{ LIST_PREFIX }}{{ group_index }}" class="collapse show" aria-expanded="true">
