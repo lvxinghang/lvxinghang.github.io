@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于我
 
 # The About page
 # v2.0
@@ -8,4 +8,6 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+>
+>
+>* 搭博客记录自己学习的点点滴滴。
