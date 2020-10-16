@@ -24,13 +24,12 @@ layout: default
           <span class="author">
           {% if page.author %}
             {{ page.author }}
-			<span>  </span>
           {% else %}
             {{ site.author }}
           {% endif %}
           </span>
         </div>
-
+        <div>&nbsp</div>
         <!-- lastmod -->
         {%- capture filename -%}
           {{ page.url | split: "/" | last }}
