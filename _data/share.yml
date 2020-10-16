@@ -16,7 +16,7 @@ platforms:
   -
     type: QQ
     icon: "fab fa-qq"
-    link: "https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?title=吕星航的博客&url=URL"
+    link: "http://connect.qq.com/widget/shareqq/index.html?title=吕星航的博客&url=URL"
   #-
    # type: Telegram
     #icon: "fab fa-telegram"
