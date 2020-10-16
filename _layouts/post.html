@@ -24,6 +24,7 @@ layout: default
           <span class="author">
           {% if page.author %}
             {{ page.author }}
+			<span>  </span>
           {% else %}
             {{ site.author }}
           {% endif %}
@@ -50,14 +51,15 @@ layout: default
         </div>
         {% endif %}
 
-        <!-- page views -->
+        <!-- page views 
         {% if site.google_analytics.pv.enabled %}
         <div>
           <span id="pv" class="pageviews"><i class="fas fa-spinner fa-spin fa-fw"></i></span>
           views
         </div>
-        {% endif %}
+        {% endif %}-->
 		
+		<!--统计文章访问量-->
 		<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 		<span id="busuanzi_container_page_pv">
         本文总阅读量<span id="busuanzi_value_page_pv"></span>次
