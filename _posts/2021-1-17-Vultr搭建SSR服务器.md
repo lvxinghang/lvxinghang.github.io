@@ -11,7 +11,7 @@ tags: VPN
 
 1.首先去[Vultr官网](https://www.vultr.com/)注册一个账号；
 
-![image-20210121131001604](C:\Users\lxh\Documents\GitHub\lvxinghang.github.io\assets\img\Vultr搭建SSR服务器\image-20210121131001604.png)
+![image-20210121131001604](https://github.com/lvxinghang/lvxinghang.github.io/tree/main/assets/img/Vultr%E6%90%AD%E5%BB%BASSR%E6%9C%8D%E5%8A%A1%E5%99%A8/image-20210121131001604.png)
 
 2.注册成功后登录；登陆后首先点击左侧的Billing充值10美元(最低充值10美元)，选择支付宝支付；
 
