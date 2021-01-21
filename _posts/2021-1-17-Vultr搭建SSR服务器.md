@@ -11,7 +11,7 @@ tags: VPN
 
 1.首先去[Vultr官网](https://www.vultr.com/)注册一个账号；
 
-![image-20210121131001604](C:\Users\lxh\AppData\Roaming\Typora\typora-user-images\image-20210121131001604.png)
+![image-20210121131001604](C:\Users\lxh\Documents\GitHub\lvxinghang.github.io\assets\img\Vultr搭建SSR服务器\image-20210121131001604.png)
 
 2.注册成功后登录；登陆后首先点击左侧的Billing充值10美元(最低充值10美元)，选择支付宝支付；
 
@@ -61,7 +61,7 @@ tags: VPN
 
 <img src="C:\Users\lxh\AppData\Roaming\Typora\typora-user-images\image-20210121135632423.png" alt="image-20210121135632423" style="zoom:80%;" />
 
-6.接下来检测一下服务器的速度怎么样，[Ping全国检测]([http://ping.chinaz.com](http://ping.chinaz.com/))；平均225.8ms，速度一般般，但是相对于美国服务器来说也不错了；追求速度的话可以买日本服务器，但是相对贵一点，美国服务器日常使用够用了；
+6.接下来检测一下服务器的速度怎么样，[Ping全国检测](http://ping.chinaz.com/)；平均225.8ms，速度一般般，但是相对于美国服务器来说也不错了；追求速度的话可以买日本服务器，但是相对贵一点，美国服务器日常使用够用了；
 
 <img src="C:\Users\lxh\AppData\Roaming\Typora\typora-user-images\image-20210121140549096.png" alt="image-20210121140549096" style="zoom:80%;" />
 
