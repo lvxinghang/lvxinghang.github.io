@@ -19,7 +19,7 @@ tags: VPN
 
 3.付款成功后右上角会显示余额；点+按钮，然后点击`Deploy New Server`去购买服务器；
 
-<img src="../assets/img/Vultr/image-20210121132418808.png" alt="image-20210121132418808" style="zoom:80%;" />
+<img src="https://github.com/lvxinghang/lvxinghang.github.io/blob/main/assets/img/Vultr/image-20210121132418808.png" alt="image-20210121132418808"/>
 
 4.选择`Cloud Compute`；
 
