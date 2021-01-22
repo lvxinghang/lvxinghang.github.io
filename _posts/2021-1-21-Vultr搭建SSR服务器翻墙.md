@@ -15,7 +15,7 @@ tags: 翻墙
 
 2.注册成功后登录；登陆后首先点击左侧的Billing充值10美元(最低充值10美元)，选择支付宝支付；
 
-<img src="https://github.com/lvxinghang/lvxinghang.github.io/raw/main/assets/img/Vultr/image-20210121131819354.png" alt="image-20210121131819354" style="zoom:80%;" />
+<img src="../tree/main/assets/img/Vultr/image-20210121131819354.png" alt="image-20210121131819354" style="zoom:80%;" />
 
 3.付款成功后右上角会显示余额；点+按钮，然后点击`Deploy New Server`去购买服务器；
 
