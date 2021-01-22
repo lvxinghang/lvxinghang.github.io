@@ -11,7 +11,7 @@ tags: 翻墙
 
 1.首先去[Vultr官网](https://www.vultr.com/)注册一个账号；
 
-<img src="../assets/img/Vultr/image-20210121131001604.png" style="zoom:80%;" />
+<img src="../lvxinghang.github.io/assets/img/Vultr/image-20210121131001604.png" style="zoom:80%;" />
 
 2.注册成功后登录；登陆后首先点击左侧的Billing充值10美元(最低充值10美元)，选择支付宝支付；
 
